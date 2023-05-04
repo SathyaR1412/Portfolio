@@ -1,0 +1,10 @@
+body{
+    background-image: url(./images/sathya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#image{
+    padding-top:100px;
+    padding-bottom: auto;
+    padding-left: 400px;
+}

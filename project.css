@@ -1,0 +1,64 @@
+body{
+    background-image: url(./images/sathya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    height:570px;
+    width:900px;
+    margin:auto;
+    padding-top:1px;
+    padding-left: 30px;
+}
+.image1{
+    float: left;
+    margin-top: 35px;
+    margin-left: 15px;
+    width: 10%;
+}
+.img1{
+    position: absolute;
+    width:900px;
+    background-color:lightyellow; 
+    height: 160px;
+}
+#text{
+    padding-left: 120px;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+.img2{
+    position: absolute;
+    width:900px;
+    margin-top: 200px;
+    background-color:lavender;
+    height: 160px;
+}
+.image2{
+    float:left;
+    margin-top:35px;
+    margin-left:15px;
+    width:10%;
+}
+#text1{
+    padding-left:120px;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img3{
+    position: absolute;
+    width:900px;
+    margin-top:400px;
+    background-color:lightyellow;
+    height:170px;
+}
+.image3{
+    float:left;
+    margin-top:35px;
+    margin-left:15px;
+    width:100px;
+}
+#text2{
+    padding-left: 130px;
+    margin-top:5px;
+    font-family: 'Times New Roman', Times, serif;
+}

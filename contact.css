@@ -1,0 +1,15 @@
+body{
+    background-image: url(./images/sathya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container1{
+    text-align: center;
+    border: 2px solid grey;
+    height:300px;
+    width:300px;
+    align-content: center;
+    margin-left: 450px;
+    padding-top:30px;
+    margin-top: 70px;
+}
